@@ -24,7 +24,7 @@ header {
     margin: 2rem auto;
     width: 40rem;
     max-width: 90%;
-    border: 1px solid #023d6d;
+    border: 1px solid #6d4202;
     border-radius: 10px;
     padding: 1rem;
     color: #023d6d;
@@ -53,7 +53,7 @@ header {
     font: inherit;
     background: #023d6d;
     color: white;
-    border: 1px solid #023d6d;
+    border: 1px solid #db690b;
     padding: 1rem;
     cursor: pointer;
 }
